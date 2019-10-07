@@ -26,13 +26,13 @@ Features of variation in glucose data for a subject's lunch time over a period o
 # Feature Vector
 <Distance Vector><Coefficient of variation><Polynomial coefficients of the graph><Time for maximum excursion>
 *  Distance Vector
-  * Window size: 3
-  * feature vector: Distance(window(1)) + Distance(window(2)) +.....+ Distance(window(n))
+   * Window size: 3
+   * feature vector: Distance(window(1)) + Distance(window(2)) +.....+ Distance(window(n))
 
 *  Coefficient of variation
-  * standard_deviation/mean
+   * standard_deviation/mean
 
 *  Polynomial coefficients of the graph
 
 *  Time for maximum excursion
-  * timeOf(max cgm)/timeOf(max insulin injection)
+   * timeOf(max cgm)/timeOf(max insulin injection)
