@@ -25,7 +25,7 @@ Features of variation in glucose data for a subject's lunch time over a period o
 
 # Feature Vector
 <Distance Vector><Coefficient of variation><Polynomial coefficients of the graph><Time for maximum excursion>
-*  Distance Vector
+*  __Strong text__ Distance Vector
    * Window size: 3
    * feature vector: Distance(window(1)) + Distance(window(2)) +.....+ Distance(window(n))
 
